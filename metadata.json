@@ -1,0 +1,8 @@
+{
+  "name": "ASU CLASSES",
+  "description": "ASU CLASSES - A production-ready coaching app with live classes, courses, and notes management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
